@@ -21,6 +21,7 @@ Além disso, o Wazuh é uma plataforma open-source e gratuita, desenvolvida para
 
 
 Uma breve apresentação de alguns dos casos de uso mais comuns da solução Wazuh.
+
 **Detecção de intrusão
 
 
